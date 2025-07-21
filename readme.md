@@ -91,7 +91,7 @@ crop-recommendation/
 **Created By**
 
 * Sanya Gupta
-* \[Add more contributors if needed]
+
 
 ---
 
